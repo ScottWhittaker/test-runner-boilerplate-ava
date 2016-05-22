@@ -13,7 +13,7 @@
     },
     "ava": {
         "files": [
-            "*.spec.js"
+            "src/**/*.spec.js"
         ],
         "require": [
             "babel-register"
